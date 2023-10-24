@@ -98,4 +98,10 @@
   color: white;
 }
 
+#toc td a {
+  width: auto;
+  height: auto;
+  display: block;
+}
+
 
