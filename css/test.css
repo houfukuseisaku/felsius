@@ -102,6 +102,11 @@
   width: auto;
   height: auto;
   display: block;
+  text-decoration: none;
 }
 
+#toc td a:hover, a:active {
+  background-color: #993333;
+  color: white;
+}
 
