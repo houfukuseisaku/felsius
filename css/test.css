@@ -102,11 +102,13 @@
   width: auto;
   height: auto;
   display: block;
+  padding-top: 12px;
+  padding-bottom: 12px;
   text-decoration: none;
 }
 
 #toc td a:hover, a:active {
-  background-color: #993333;
+  background-color: #bf4040;
   color: white;
 }
 
